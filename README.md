@@ -13,7 +13,7 @@ LUDRICFER es una aplicación de gestión de videojuegos retro diseñada para ayu
 El proyecto busca simplificar la gestión de bibliotecas retro y mejorar la experiencia de los aficionados al retrogaming.
 <br>
 
-![Matriz DAFO de Ludricfer-BOX](img/Matriz_DAFO_Nyddo.png)
+
 
 # El Proyecto
 
@@ -64,6 +64,10 @@ LUDRICFER resuelve este problema proporcionando un entorno unificado para la ges
 - Gestión centralizada de emuladores y ROMs.
 - Experiencia de usuario más cómoda y eficiente.
 
+
+## DAFO
+
+![Matriz DAFO de Ludricfer-BOX](img/Matriz_DAFO_Nyddo.png)
 
 
 
