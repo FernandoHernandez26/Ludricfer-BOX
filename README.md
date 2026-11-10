@@ -13,30 +13,54 @@ LUDRICFER es una aplicación de gestión de videojuegos retro diseñada para ayu
 El proyecto busca simplificar la gestión de bibliotecas retro y mejorar la experiencia de los aficionados al retrogaming.
 
 
-# Descripción detallada del proyecto LUDRICFER
+# El Proyecto
 
-LUDRICFER es una aplicación de gestión de videojuegos retro diseñada para organizar colecciones digitales, administrar ROMs y facilitar la ejecución de juegos mediante emuladores externos desde una única plataforma.
+## Descripción 🖥️
 
-Problema que resuelve:
-Los usuarios suelen almacenar sus ROMs, emuladores y juegos en diferentes ubicaciones, dificultando su organización y acceso.
+LUDRICFER es una aplicación de gestión de videojuegos retro diseñada para centralizar la organización, administración y ejecución de colecciones digitales. La aplicación permite a los usuarios almacenar información sobre sus videojuegos, gestionar ROMs y lanzar juegos mediante emuladores externos desde una única plataforma.
 
-# Objetivos:
-- Centralizar la gestión de videojuegos retro.
-- Facilitar la organización de ROMs.
-- Mejorar la experiencia de usuario.
-- Simplificar la ejecución de juegos mediante emuladores.
+El proyecto nace con el objetivo de ofrecer una solución práctica para los aficionados al retrogaming, facilitando la administración de bibliotecas de juegos y mejorando la experiencia de usuario al acceder a sus colecciones.
 
-# Usuarios destinatarios:
+## Problema que resuelve
+
+Los aficionados a los videojuegos retro suelen almacenar sus ROMs y emuladores en diferentes ubicaciones, dificultando la organización y el acceso a su colección. Además, la búsqueda de juegos y la ejecución mediante distintos emuladores puede resultar poco eficiente cuando se gestiona de forma manual.
+
+LUDRICFER resuelve este problema proporcionando un entorno unificado para la gestión, clasificación y lanzamiento de videojuegos retro.
+
+## Objetivos 🤖
+
+- Centralizar la gestión de colecciones de videojuegos retro.
+- Organizar y catalogar ROMs de forma eficiente.
+- Facilitar la búsqueda y clasificación de videojuegos.
+- Integrar múltiples emuladores en una única aplicación.
+- Mejorar la experiencia de usuario al ejecutar videojuegos clásicos.
+- Favorecer la preservación digital de colecciones de videojuegos retro.
+
+## Usuarios destinatarios 👥
+
 - Coleccionistas de videojuegos retro.
 - Aficionados al retrogaming.
-- Usuarios de emuladores.
+- Usuarios habituales de emuladores.
+- Personas interesadas en la preservación digital de videojuegos clásicos.
 
-# Funcionalidades principales:
+## Funcionalidades principales 🛠️
+
 - Gestión de colecciones de videojuegos.
-- Administración de ROMs.
-- Búsqueda y clasificación de juegos.
+- Administración y organización de ROMs.
+- Búsqueda de videojuegos por nombre o plataforma.
+- Clasificación de juegos por categorías y sistemas.
 - Integración con emuladores externos.
 - Lanzamiento de videojuegos desde la aplicación.
+- Almacenamiento de información asociada a cada juego (plataforma, género, año de lanzamiento, desarrollador, etc.).
+- Interfaz intuitiva orientada a la gestión de bibliotecas retro.
+
+## Beneficios 💸
+
+- Mayor organización de la colección de videojuegos.
+- Acceso rápido a los títulos almacenados.
+- Reducción del tiempo necesario para localizar y ejecutar juegos.
+- Gestión centralizada de emuladores y ROMs.
+- Experiencia de usuario más cómoda y eficiente.
 
 
 
