@@ -6,5 +6,9 @@
 :arrow_right: Luis Fernando Hernandez Jaramillo
 <br>
 
-# Descripción: :memo:
-Ludricfer-BOX es una aplicación de gestión de videojuegos retro que permite organizar colecciones, administrar ROMs y ejecutar juegos mediante emuladores externos.
+# Introducción: :memo:
+
+LUDRICFER es una aplicación de gestión de videojuegos retro diseñada para ayudar a los usuarios a organizar sus colecciones, administrar ROMs y ejecutar juegos mediante emuladores externos desde una única plataforma. 
+El proyecto busca simplificar la gestión de bibliotecas retro y mejorar la experiencia de los aficionados al retrogaming.
+
+
